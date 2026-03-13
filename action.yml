@@ -1,4 +1,4 @@
-name: "Repo Mirror"
+name: "Ximaz Repo Mirror"
 description: "Mirror a repository to another repository on GitHub, GitLab, BitBucket, AWS CodeCommit, etc."
 branding:
   icon: "archive"
